@@ -1,2 +1,4 @@
-# cep146-nbb-groupproject1
-Project Presentation: Software Development Current Event Topics and Navigating GitHub
+# Welcome to the first CEP146 group project
+
+ 
+### First things first: Go to the top of the page, and look for the discussions tab, there you can discuss what idea the group project should be.
