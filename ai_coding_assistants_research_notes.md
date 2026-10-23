@@ -60,7 +60,7 @@ Tool documentation: [GitHub](https://github.blog/news-insights/product-news/gith
 - **February 2026 — Multi-agent workflows on GitHub:** GitHub began supporting Claude and OpenAI Codex alongside Copilot in Agent HQ. [GitHub announcement](https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/)
 - **June 2026 — Automatic security validation expanded:** GitHub announced security checks for code produced by third-party coding agents, including CodeQL, dependency checks, and secret scanning. [GitHub changelog](https://github.blog/changelog/2026-06-09-security-validation-for-third-party-coding-agents/)
 - **September 2026 — Further workflow integration:** GitHub announced Jira integration for Copilot and experimental multi-model orchestration in its CLI. These are vendor-announced capabilities, not independent effectiveness measurements. [GitHub changelog](https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7/)
- - **October 2026 — Further workflow integration:** Perplexity Computer can now run fully locally on Apple Silicon Macs, letting you work across private files and native apps without sending data to the cloud (recommending 36GB+ of RAM).
+ - **October 2026 — Further workflow integration:** Perplexity Computer can now run fully locally on Apple Silicon Macs, letting you work across private files and native apps without sending data to the cloud (recommending 36GB+ of RAM). [GitHub changelog] 
 
 ## 6. Suggested speaking segment (approximately 40–50 seconds)
 
