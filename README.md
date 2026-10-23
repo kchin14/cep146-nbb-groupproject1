@@ -10,14 +10,14 @@
 | --- | --- | --- |
 | **Eric Li** | [@ericliyutong-byte](https://github.com/ericliyutong-byte) | Proposed the topic; researched GitHub Copilot and other AI coding assistants, benefits, limitations, and recent developments; prepared research notes and references. |
 | **Francis Iacono** | [@fiaconomyaccount](https://github.com/fiaconomyaccount) | AI assistant research and/or presentation contribution — specific completed work to be confirmed. |
-| **Kingston Chin** | [@kchin14](https://github.com/kchin14) | Group repository owner; individual research/presentation contribution to be confirmed. |
+| **Kingston Chin** | [@kchin14](https://github.com/kchin14) | Group repository owner; individual research/presentation, responsible for research on Grok AI Agent. |
 | **Sukhmannat Singh Malhi** | [@Sukhmannat1](https://github.com/Sukhmannat1) | AI assistant research and/or presentation contribution — specific completed work to be confirmed. |
 
 > Update contributions to describe each person's *actual* completed work before final submission.
 
 ## Topic Summary
 
-AI coding assistants such as **GitHub Copilot**, **Cursor**, and **Claude Code** help developers generate code, debug programs, write tests, and understand unfamiliar projects. Newer AI agents can also carry out scoped tasks and propose changes through GitHub pull requests, changing how teams divide up programming work. These tools can improve some workflows, but their suggestions still require human review because of accuracy, security, and maintainability risks.
+AI coding assistants such as **GitHub Copilot**, **Cursor**, **Claude Code**, and **Grok** help developers generate code, debug programs, write tests, and understand unfamiliar projects. Newer AI agents can also carry out scoped tasks and propose changes through GitHub pull requests, changing how teams divide up programming work. These tools can improve some workflows, but their suggestions still require human review because of accuracy, security, and maintainability risks.
 
 ## Public YouTube Presentation
 
@@ -31,7 +31,7 @@ AI coding assistants such as **GitHub Copilot**, **Cursor**, and **Claude Code**
 
 Our group will compare selected AI coding assistants, explain distinctive features, and discuss both the advantages and limitations of using AI in software development.
 
-- **Tools:** GitHub Copilot, Cursor, Claude Code (and other relevant assistants if included in the final script).
+- **Tools:** GitHub Copilot, Cursor, Claude Code, Grok (and other relevant assistants if included in the final script).
 - **Advantages:** Faster completion of some routine coding tasks; explanations; test generation; debugging support; automated pull-request preparation.
 - **Disadvantages:** Incorrect code, possible security vulnerabilities, privacy and licensing considerations, overreliance, and extra review time.
 - **Main conclusion:** AI can help developers, but it does not replace understanding, testing, security checks, or peer review.
@@ -52,14 +52,14 @@ Our assignment requires work to be tracked through issues, task branches, pull r
 
 Create and assign an [Issue](https://github.com/kchin14/cep146-nbb-groupproject1/issues) for each task, with a responsible member and a description of what should be delivered:
 
-- [ ] Research GitHub Copilot and write a short Markdown section — assign member
-- [ ] Research Cursor and write a short Markdown section — assign member
-- [ ] Research Claude Code and write a short Markdown section — assign member
-- [ ] Draft and review the 2:30–3:00-minute presentation script — assign member
-- [ ] Create slides or other presentation visuals — assign member
-- [ ] Record narration and edit the video — assign member(s)
+- [x] Research GitHub Copilot and write a short Markdown section — Eric
+- [x] Research Grok and append Markdown section - Kingston
+- [ ] Research Perplexity and append Markdown section - Francis
+- [ ] Research Meta AI and append Markdown section — Sukhmannat 
+- [ ] Draft/append and review the 2:30–3:00-minute presentation script — Everyone
+- [ ] Record narration and edit the video — Kingston & Eric
 - [ ] Upload the **public** YouTube video and add its link to this README — assign member
-- [ ] Verify sources, member contributions, and final submission — assign member
+- [ ] Verify sources, member contributions, and final submission — Everyone
 
 Update checkboxes and issue statuses to match what the team has actually finished.
 
