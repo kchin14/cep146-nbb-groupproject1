@@ -17,8 +17,10 @@ AI coding assistants are changing software development from *writing all code ma
 | **Claude Code** | Terminal-based agent that explores repositories, edits files, runs tests/commands, and helps with Git workflows. | Strong emphasis on command-line, repository-wide tasks. |
 | **Gemini Code Assist** | IDE chat, code completions, generation, and codebase-aware assistance for supported Google Cloud editions. | Integration with Google development tools and enterprise environments. Note: Google migrated some individual plans to Antigravity in June 2026. |
 | **Amazon Q Developer** | Code assistance, explanations, unit tests, and AWS development guidance in supported IDEs. | Particularly useful for AWS-oriented development. |
+| **Grok** | General-purpose AI assistant capable of coding help, explanations, brainstorming, data analysis, image generation, and real-time information retrieval from X. | Direct integration with X and a deliberately witty, sarcastic conversational style. |
 
-Tool documentation: [GitHub](https://github.blog/news-insights/product-news/github-copilot-meet-the-new-coding-agent/), [Cursor](https://cursor.com/docs/agent/overview), [Anthropic](https://support.claude.com/en/articles/14553517-claude-code-common-developer-use-cases), [Google](https://docs.cloud.google.com/gemini/docs/codeassist/overview), [AWS](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/q-in-IDE-chat.html).
+Tool documentation: [GitHub](https://github.blog/news-insights/product-news/github-copilot-meet-the-new-coding-agent/), [Cursor](https://cursor.com/docs/agent/overview), [Anthropic](https://support.claude.com/en/articles/14553517-claude-code-common-developer-use-cases), [Google](https://docs.cloud.google.com/gemini/docs/codeassist/overview), [AWS](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/q-in-IDE-chat.html),
+[Grok](https://docs.x.ai/grok/overview).
 
 ## 2. Advantages
 
@@ -27,7 +29,8 @@ Tool documentation: [GitHub](https://github.blog/news-insights/product-news/gith
 - **Debugging and documentation:** Suggests fixes, unit tests, refactoring, and explanatory comments.
 - **Delegation:** Coding agents can handle scoped tasks and propose changes as pull requests while a developer tackles other work.
 - **Accessibility:** Natural-language instructions can help less-experienced developers prototype and explore ideas.
-
+- **Access to current information:** Some AI assistants, such as **Grok**, can incorporate real-time information from external platforms, helping users research current events, technologies, and trends.
+  
 ## 3. Disadvantages and risks
 
 - **Incorrect output:** Code may compile yet implement the wrong behavior, invent APIs, or fail edge cases.
@@ -58,7 +61,7 @@ Tool documentation: [GitHub](https://github.blog/news-insights/product-news/gith
 
 ## 6. Suggested speaking segment (approximately 40–50 seconds)
 
-> AI coding assistants such as GitHub Copilot, Cursor, and Claude Code are changing how programmers work. Instead of writing every line themselves, developers can ask AI to suggest code, debug errors, generate tests, and even prepare pull requests. These tools can help, but they are not always faster. One Copilot experiment found a 55.8 percent speed improvement on a specific programming task, while a 2025 study found some experienced developers were 19 percent slower with AI in familiar projects. Security and accuracy also remain concerns. Our conclusion is that AI works best as a tool for developers, with human testing and review before code is accepted.
+> AI coding assistants such as GitHub Copilot, Cursor, Claude Code, and Grok are changing how programmers work. Instead of writing every line themselves, developers can ask AI to suggest code, debug errors, generate tests, explain unfamiliar files, and even prepare pull requests. Grok is notable because, unlike most coding-focused tools, it combines coding assistance with access to real-time information from X and a more conversational, sarcastic personality. This shows how AI assistants are evolving from simple code-completion tools into broader agents that can help developers research, learn, and solve problems. However, these tools are not always faster. One Copilot experiment found a 55.8 percent speed improvement on a specific programming task, while a 2025 study found some experienced developers were 19 percent slower with AI in familiar projects. Security and accuracy also remain concerns. Our conclusion is that AI works best as a tool for developers, with human testing and review before code is accepted.
 
 ## 7. Takeaway for the team
 
@@ -75,3 +78,4 @@ Tool documentation: [GitHub](https://github.blog/news-insights/product-news/gith
 7. GitHub. (2026, February 4). *Pick your agent: Use Claude and Codex on Agent HQ.* https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/
 8. GitHub. (2026, June 9). *Security validation for third-party coding agents.* https://github.blog/changelog/2026-06-09-security-validation-for-third-party-coding-agents/
 9. GitHub. (2026, September 10). *GitHub Copilot weekly releases — September 7.* https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7/
+10. CNBC. (2023, November 5). *Elon Musk debuts 'Grok' AI bot to rival ChatGPT, others.* https://www.cnbc.com/2023/11/05/elon-musk-debuts-grok-ai-bot-to-rival-chatgpt-others-.html
