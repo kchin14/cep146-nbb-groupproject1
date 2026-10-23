@@ -18,9 +18,11 @@ AI coding assistants are changing software development from *writing all code ma
 | **Gemini Code Assist** | IDE chat, code completions, generation, and codebase-aware assistance for supported Google Cloud editions. | Integration with Google development tools and enterprise environments. Note: Google migrated some individual plans to Antigravity in June 2026. |
 | **Amazon Q Developer** | Code assistance, explanations, unit tests, and AWS development guidance in supported IDEs. | Particularly useful for AWS-oriented development. |
 | **Grok** | General-purpose AI assistant capable of coding help, explanations, brainstorming, data analysis, image generation, and real-time information retrieval from X. | Direct integration with X and a deliberately witty, sarcastic conversational style. |
+| **Perplexity AI** | Conversational web search that gives direct answers with inline sources and citations; useful for researching programming questions and technical topics. | Emphasizes research and source discovery, complementing coding assistants. |
 
 Tool documentation: [GitHub](https://github.blog/news-insights/product-news/github-copilot-meet-the-new-coding-agent/), [Cursor](https://cursor.com/docs/agent/overview), [Anthropic](https://support.claude.com/en/articles/14553517-claude-code-common-developer-use-cases), [Google](https://docs.cloud.google.com/gemini/docs/codeassist/overview), [AWS](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/q-in-IDE-chat.html),
-[Grok](https://docs.x.ai/grok/overview).
+[Grok](https://docs.x.ai/grok/overview), [Perplexity](https://docs.perplexity.ai/docs/getting-started/overview).
+
 
 ## 2. Advantages
 
@@ -30,7 +32,7 @@ Tool documentation: [GitHub](https://github.blog/news-insights/product-news/gith
 - **Delegation:** Coding agents can handle scoped tasks and propose changes as pull requests while a developer tackles other work.
 - **Accessibility:** Natural-language instructions can help less-experienced developers prototype and explore ideas.
 - **Access to current information:** Some AI assistants, such as **Grok**, can incorporate real-time information from external platforms, helping users research current events, technologies, and trends.
-  
+- **Research citations:** Many AI assistants can do citations, however **Perplexity** can do inline citations which helps reduce Ai hallucinations common in other chatbots
 ## 3. Disadvantages and risks
 
 - **Incorrect output:** Code may compile yet implement the wrong behavior, invent APIs, or fail edge cases.
