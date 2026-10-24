@@ -12,11 +12,9 @@
 | **Kingston Chin** | [@kchin14](https://github.com/kchin14) | Group repository owner; individual research/presentation, responsible for research on Grok AI Agent. |
 | **Sukhmannat Singh Malhi** | [@Sukhmannat1](https://github.com/Sukhmannat1) | AI assistant research and/or presentation contribution, responsible for Meta AI Agent. |
 
-> Update contributions to describe each person's *actual* completed work before final submission.
-
 ## Topic Summary
 
-AI coding assistants such as **GitHub Copilot**, **Cursor**, **Claude Code**, **Grok**, ** help developers generate code, debug programs, write tests, and understand unfamiliar projects. Newer AI agents can also carry out scoped tasks and propose changes through GitHub pull requests, changing how teams divide up programming work. These tools can improve some workflows, but their suggestions still require human review because of accuracy, security, and maintainability risks.
+AI coding assistants such as **GitHub Copilot**, **Cursor**, **Claude Code**, **Grok**, **Perplexity**, and **Meta AI** help developers generate code, debug programs, write tests, and understand unfamiliar projects. Newer AI agents can also carry out scoped tasks and propose changes through GitHub pull requests, changing how teams divide up programming work. These tools can improve some workflows, but their suggestions still require human review because of accuracy, security, and maintainability risks.
 
 ## Public YouTube Presentation
 
@@ -30,7 +28,7 @@ AI coding assistants such as **GitHub Copilot**, **Cursor**, **Claude Code**, **
 
 Our group will compare selected AI coding assistants, explain distinctive features, and discuss both the advantages and limitations of using AI in software development.
 
-- **Tools:** GitHub Copilot, Cursor, Claude Code, Grok (and other relevant assistants if included in the final script).
+- **Tools:** GitHub Copilot, Cursor, Claude Code, Grok, Meta AI, Perplexity.
 - **Advantages:** Faster completion of some routine coding tasks; explanations; test generation; debugging support; automated pull-request preparation.
 - **Disadvantages:** Incorrect code, possible security vulnerabilities, privacy and licensing considerations, overreliance, and extra review time.
 - **Main conclusion:** AI can help developers, but it does not replace understanding, testing, security checks, or peer review.
