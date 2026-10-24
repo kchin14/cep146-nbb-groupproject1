@@ -2,22 +2,21 @@
 
 **Course:** CEP146 — Group Project Presentation (NBB)  
 **Topic:** AI coding assistants in modern software development  
-**Group repository:** [cep146-nbb-groupproject1](https://github.com/kchin14/cep146-nbb-groupproject1)
-
+**Group repository:** [cep146-nbb-groupproject1](https://github.com/kchin14/cep146-nbb-groupproject1)  **Youtube Link:** [Project Video](https://youtu.be/mZYsMw9133U)
 ## Team Members and Contributions
 
 | Team member | GitHub profile | Contribution |
 | --- | --- | --- |
 | **Eric Li** | [@ericliyutong-byte](https://github.com/ericliyutong-byte) | Proposed the topic; researched GitHub Copilot and other AI coding assistants, benefits, limitations, and recent developments; prepared research notes and references. |
-| **Francis Iacono** | [@fiaconomyaccount](https://github.com/fiaconomyaccount) | AI assistant research and/or presentation contribution — specific completed work to be confirmed. |
+| **Francis Iacono** | [@fiaconomyaccount](https://github.com/fiaconomyaccount) | AI assistant research and/or presentation contribution, responsible for Perplexity AI Agent. |
 | **Kingston Chin** | [@kchin14](https://github.com/kchin14) | Group repository owner; individual research/presentation, responsible for research on Grok AI Agent. |
-| **Sukhmannat Singh Malhi** | [@Sukhmannat1](https://github.com/Sukhmannat1) | AI assistant research and/or presentation contribution — specific completed work to be confirmed. |
+| **Sukhmannat Singh Malhi** | [@Sukhmannat1](https://github.com/Sukhmannat1) | AI assistant research and/or presentation contribution, responsible for Meta AI Agent. |
 
 > Update contributions to describe each person's *actual* completed work before final submission.
 
 ## Topic Summary
 
-AI coding assistants such as **GitHub Copilot**, **Cursor**, **Claude Code**, and **Grok** help developers generate code, debug programs, write tests, and understand unfamiliar projects. Newer AI agents can also carry out scoped tasks and propose changes through GitHub pull requests, changing how teams divide up programming work. These tools can improve some workflows, but their suggestions still require human review because of accuracy, security, and maintainability risks.
+AI coding assistants such as **GitHub Copilot**, **Cursor**, **Claude Code**, **Grok**, ** help developers generate code, debug programs, write tests, and understand unfamiliar projects. Newer AI agents can also carry out scoped tasks and propose changes through GitHub pull requests, changing how teams divide up programming work. These tools can improve some workflows, but their suggestions still require human review because of accuracy, security, and maintainability risks.
 
 ## Public YouTube Presentation
 
@@ -56,10 +55,10 @@ Create and assign an [Issue](https://github.com/kchin14/cep146-nbb-groupproject1
 - [x] Research Grok and append Markdown section - Kingston
 - [x] Research Perplexity and append Markdown section - Francis
 - [x] Research Meta AI and append Markdown section — Sukhmannat 
-- [ ] Draft/append and review the 2:30–3:00-minute presentation script — Everyone
-- [ ] Record narration and edit the video — Kingston & Eric
-- [ ] Upload the **public** YouTube video and add its link to this README — assign member
-- [ ] Verify sources, member contributions, and final submission — Everyone
+- [x] Draft/append and review the 2:30–3:00-minute presentation script — Francis & Eric
+- [x] Record narration and edit the video — Francis
+- [x] Upload the **public** YouTube video and add its link to this README — Kingston
+- [x] Verify sources, member contributions, and final submission — Everyone
 
 Update checkboxes and issue statuses to match what the team has actually finished.
 
@@ -79,10 +78,10 @@ Use the [Discussions board](https://github.com/kchin14/cep146-nbb-groupproject1/
 
 ## Final Submission Checklist
 
-- [ ] All four team members and their GitHub profiles are listed correctly
-- [ ] Contributions reflect actual work completed
-- [ ] Research and other materials have been committed to the repository
-- [ ] Issues, assignees, branches, PRs, and reviewers show team participation
-- [ ] Relevant team decisions appear in Discussions
-- [ ] The YouTube video is **Public** and runs **2:30–3:00**
-- [ ] The public video link is included above and works
+- [x] All four team members and their GitHub profiles are listed correctly
+- [x] Contributions reflect actual work completed
+- [x] Research and other materials have been committed to the repository
+- [x] Issues, assignees, branches, PRs, and reviewers show team participation
+- [x] Relevant team decisions appear in Discussions
+- [x] The YouTube video is **Public** and runs **2:30–3:00**
+- [x] The public video link is included above and works
