@@ -52,9 +52,9 @@ Create and assign an [Issue](https://github.com/kchin14/cep146-nbb-groupproject1
 - [x] Research Grok and append Markdown section - Kingston
 - [x] Research Perplexity and append Markdown section - Francis
 - [x] Research Meta AI and append Markdown section — Sukhmannat 
-- [x] Draft/append and review the 2:30–3:00-minute presentation script — Francis & Eric
-- [x] Record narration and edit the video — Francis
-- [x] Upload the **public** YouTube video and add its link to this README — Kingston
+- [x] Draft/append and review the 2:30–3:00-minute presentation script — Everyone
+- [x] Record narration - Francis & Eric
+- [x] Edit and Upload the **public** YouTube video and add its link to this README — Kingston
 - [x] Verify sources, member contributions, and final submission — Everyone
 
 Update checkboxes and issue statuses to match what the team has actually finished.
