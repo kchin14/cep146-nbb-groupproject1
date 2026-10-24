@@ -2,7 +2,7 @@
 
 **Course:** CEP146 — Group Project Presentation (NBB)  
 **Topic:** AI coding assistants in modern software development  
-**Group repository:** [cep146-nbb-groupproject1](https://github.com/kchin14/cep146-nbb-groupproject1)  **Youtube Link:** [Project Video](https://youtu.be/mZYsMw9133U)
+**Group Repository:** [cep146-nbb-groupproject1](https://github.com/kchin14/cep146-nbb-groupproject1)  **Youtube Link:** [Project Video](https://www.youtube.com/watch?v=ae8KeWkvWsE)
 ## Team Members and Contributions
 
 | Team member | GitHub profile | Contribution |
@@ -18,7 +18,7 @@ AI coding assistants such as **GitHub Copilot**, **Cursor**, **Claude Code**, **
 
 ## Public YouTube Presentation
 
-**Video:** [Project Video](https://youtu.be/mZYsMw9133U)  
+**Video:** [Project Video](https://www.youtube.com/watch?v=ae8KeWkvWsE)  
 **Required length:** 2 minutes 30 seconds to 3 minutes  
 **Visibility:** **Public** (not Private or Unlisted)
 
