@@ -18,11 +18,10 @@ AI coding assistants such as **GitHub Copilot**, **Cursor**, **Claude Code**, **
 
 ## Public YouTube Presentation
 
-**Video:** [TO ADD — paste the public YouTube video URL here]  
+**Video:** [Project Video](https://youtu.be/mZYsMw9133U)  
 **Required length:** 2 minutes 30 seconds to 3 minutes  
 **Visibility:** **Public** (not Private or Unlisted)
 
-> Confirm that the video plays in a signed-out browser window before submitting.
 
 ## Research and Presentation Content
 
